@@ -1,0 +1,16 @@
+{
+  "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-26.0.2",
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\shiva\\Downloads\\mysql-connector-j-26.7.0\\mysql-connector-j-26.7.0\\mysql-connector-j-26.7.0.jar"
+  ],
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-26",
+      "path": "C:\\Program Files\\Java\\jdk-26.0.2",
+      "default": true
+    }
+  ]
+}
